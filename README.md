@@ -5,7 +5,7 @@ He aprovado por los pelos la avaluacion continuada, pero lo subo porque quiza le
 ### Apuntes
 [Parcial1-SOA.pdf](https://github.com/annukio/SOA-FIB/blob/main/apuntes/Parcial1-%20SOA.pdf) \
 Para los apuntes para el primer parcial.\
-Son los 4 primeros temas:\
+Son los 4 primeros temas:
 1. Introduccion y boot del sistema
 2. LLamadas a sistema
 3. Gestión de memoria
@@ -14,4 +14,5 @@ Son los 4 primeros temas:\
 [[Parcial2-SOA.pdf](https://github.com/annukio/SOA-FIB/blob/main/apuntes/Parcial2-SOA.pdf)\
 Para los apuntes para el segundo parcial.\
 4.2 Threads y semaforos\
-5 Sistemas de ficheros y entrada/salida\
+5 Sistemas de ficheros y entrada/salida
+

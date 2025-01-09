@@ -11,8 +11,11 @@ Son los 4 primeros temas:
 3. Gestión de memoria
 4.1 Gestion de procesos
 
-[[Parcial2-SOA.pdf](https://github.com/annukio/SOA-FIB/blob/main/apuntes/Parcial2-SOA.pdf)\
+[Parcial2-SOA.pdf](https://github.com/annukio/SOA-FIB/blob/main/apuntes/Parcial2-SOA.pdf)\
 Para los apuntes para el segundo parcial.\
 4.2 Threads y semaforos\
 5 Sistemas de ficheros y entrada/salida
-
+Tambien estan las [transparencias](https://github.com/annukio/SOA-FIB/tree/main/transparencias) de la web de la assignatura.
+### Examenes
+Si eres alumno de SOA solo teniamos acceso a los [finales](https://github.com/annukio/SOA-FIB/tree/main/examenes/finales), los primeros parciales yo no los tube, pero se los puedes pedir a alumnos de SO2, muy recomendable si pretendes aprobar por continua.\
+Estan subidos algunos de los [segundos parciales](https://github.com/annukio/SOA-FIB/tree/main/examenes/parcial2), que fueron muy útiles.

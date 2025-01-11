@@ -1,6 +1,5 @@
 # SOA-FIB
 De la asignatura de Sistemas Operativos Avanzados 2024-2025 Q1
-He aprovado por los pelos la avaluacion continuada, pero lo subo porque quiza le sirve a alguien.
 
 ### Apuntes
 ##### Parcial 1
@@ -20,5 +19,5 @@ Para los apuntes para el segundo parcial.\
 \
 Tambien estan las [transparencias](https://github.com/annukio/SOA-FIB/tree/main/transparencias) de la web de la assignatura.
 ### Examenes
-Si eres alumno de SOA solo teniamos acceso a los [finales](https://github.com/annukio/SOA-FIB/tree/main/examenes/finales), los primeros parciales yo no los tube, pero se los puedes pedir a alumnos de SO2, muy recomendable si pretendes aprobar por continua.\
-Estan subidos algunos de los [segundos parciales](https://github.com/annukio/SOA-FIB/tree/main/examenes/parcial2), que fueron muy útiles.
+Si eres alumno de SOA solo teniamos acceso a los [finales](https://github.com/annukio/SOA-FIB/tree/main/examenes/finales), 
+Estan subidos algunos de los [segundos parciales](https://github.com/annukio/SOA-FIB/tree/main/examenes/parcial2)
